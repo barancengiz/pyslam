@@ -6,7 +6,7 @@
 	url = https://github.com/vbalnt/tfeat.git
 [submodule "thirdparty/hardnet"]
 	path = thirdparty/hardnet
-	url = https://github.com/DagnyT/hardnet
+	url = https://github.com/DagnyT/hardnet.git
 [submodule "thirdparty/SOSNet"]
 	path = thirdparty/SOSNet
 	url = https://github.com/yuruntian/SOSNet.git
@@ -18,7 +18,7 @@
 	url = https://github.com/mihaidusmanu/d2-net.git
 [submodule "thirdparty/tensorflow_models"]
 	path = thirdparty/tensorflow_models
-	url = https://github.com/tensorflow/models
+	url = https://github.com/tensorflow/models.git
 [submodule "thirdparty/lfnet"]
 	path = thirdparty/lfnet
 	url = https://github.com/vcg-uvic/lf-net-release.git
@@ -43,3 +43,6 @@
 [submodule "thirdparty/patch_netvlad"]
 	path = thirdparty/patch_netvlad
 	url = https://github.com/QVPR/Patch-NetVLAD.git
+[submodule "thirdparty/mvdust3r"]
+	path = thirdparty/mvdust3r
+	url = https://github.com/facebookresearch/mvdust3r.git
